@@ -4,7 +4,7 @@
 
 ## 🚀 Welcome to InovareSoft
 
-**InovareSoft** derives from the Latin *innovāre*—meaning **“to renew,” “to change,” or “to create innovation”** :contentReference[oaicite:1]{index=1}—combined with **Soft**, signaling our focus on software excellence.
+**InovareSoft** derives from the Latin *innovāre*—meaning **“to renew,” “to change,” or “to create innovation”** combined with **Soft**, signaling our focus on software excellence.
 
 ---
 

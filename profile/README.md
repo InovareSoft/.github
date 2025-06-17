@@ -1,4 +1,4 @@
-# ![InovareSoft Logo](/images/logo.png)
+# ![InovareSoft Logo](images/logo.png)
 
 ## 🚀 Welcome to InovareSoft
 

@@ -41,7 +41,7 @@ At InovareSoft, we are a passionate team of developers and innovators committed 
 
 ### 🤝 Join Us
 
-Looking to collaborate? Reach out at [omarmohamed20052003@gmail.com](mailto:omarmohamed20052003@gmail.com) or explore our public repositories to contribute and learn!
+Looking to collaborate? Reach out at [inovaresoft@outlook.com](mailto:inovaresoft@outlook.com) or explore our public repositories to contribute and learn!
 
 ---
 

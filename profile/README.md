@@ -1,4 +1,6 @@
-# ![InovareSoft Logo](images/logo.png)
+<p align="center">
+  <img src="images/logo.png" alt="InovareSoft Logo" width="200"/>
+</p>
 
 ## 🚀 Welcome to InovareSoft
 

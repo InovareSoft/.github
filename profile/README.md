@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/InovareSoft/.github/blob/main/profile/images/logo.png" alt="InovareSoft Logo" style="max-width: 100%; height: auto;" />
+  <img src="https://github.com/InovareSoft/.github/blob/main/profile/images/logo.png" alt="InovareSoft Logo" style="max-width: 300; height: auto;" />
 </p>
 
 ## 🚀 Welcome to InovareSoft

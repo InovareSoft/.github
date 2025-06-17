@@ -1,8 +1,10 @@
-# ![InovareSoft Logo](./logo.png)
+<p align="center">
+  <img src="https://github.com/InovareSoft/.github/blob/main/profile/images/logo.png" alt="InovareSoft Logo" style="max-width: 300; height: auto;" />
+</p>
 
 ## 🚀 Welcome to InovareSoft
 
-**InovareSoft** derives from the Latin *innovāre*—meaning **“to renew,” “to change,” or “to create innovation”** :contentReference[oaicite:1]{index=1}—combined with **Soft**, signaling our focus on software excellence.
+**InovareSoft** derives from the Latin *innovāre*—meaning **“to renew,” “to change,” or “to create innovation”** combined with **Soft**, signaling our focus on software excellence.
 
 ---
 
@@ -34,15 +36,6 @@ At InovareSoft, we are a passionate team of developers and innovators committed 
 - **Innovare**: We embrace constant improvement—just like the meaning of our name.  
 - **Soft**: We focus on stability, usability, and craftsmanship in software.  
 - **Client-centric**: We build closely with stakeholders to solve real-world problems.  
-
----
-
-### 📂 Organization Structure
-
-- `/frontend` – React / Vue / Angular app scaffolds  
-- `/backend` – Node.js / Go / Python API and microservices  
-- `/projects` – Client-specific code and documentation  
-- `/docs` – Design guidelines, brand assets, and architecture specs
 
 ---
 

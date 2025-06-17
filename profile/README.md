@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo.png" alt="InovareSoft Logo" width="200"/>
+  <img src="images/logo.png" alt="InovareSoft Logo" width="400"/>
 </p>
 
 ## 🚀 Welcome to InovareSoft

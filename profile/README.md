@@ -39,15 +39,6 @@ At InovareSoft, we are a passionate team of developers and innovators committed 
 
 ---
 
-### 📂 Organization Structure
-
-- `/frontend` – React / Vue / Angular app scaffolds  
-- `/backend` – Node.js / Go / Python API and microservices  
-- `/projects` – Client-specific code and documentation  
-- `/docs` – Design guidelines, brand assets, and architecture specs
-
----
-
 ### 🤝 Join Us
 
 Looking to collaborate? Reach out at [omarmohamed20052003@gmail.com](mailto:omarmohamed20052003@gmail.com) or explore our public repositories to contribute and learn!

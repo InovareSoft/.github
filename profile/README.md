@@ -2,8 +2,8 @@
   <img src="https://github.com/InovareSoft/.github/blob/main/profile/images/InovareSoft-Logo.svg" alt="InovareSoft Logo" style="max-width: 200px; height: auto;" />
 </p>
 
-<p align="center" style="font-size:20px; margin-top:0;">
-  $$\large{\color{#229EBF}Renew\ Your\ Digital\ World}$$ with Smart, Custom Software
+<p align="center">
+  <img src="https://github.com/InovareSoft/.github/blob/main/profile/images/Hero.svg" alt="Renew Your Digital World with Smart, Custom Software" />
 </p>
 
 <h2 align="center">🚀 Welcome to InovareSoft</h2>

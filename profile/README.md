@@ -2,6 +2,10 @@
   <img src="https://github.com/InovareSoft/.github/blob/main/profile/images/InovareSoft-Logo.svg" alt="InovareSoft Logo" style="max-width: 200px; height: auto;" />
 </p>
 
+<p align="center" style="font-size:18px; margin-top:0;">
+  <strong><span style="color: #229EBF;">Renew Your Digital World</span> with Smart, Custom Software</strong>
+</p>
+
 <h2 align="center">🚀 Welcome to InovareSoft</h2>
 
 At InovareSoft, our name says it all. Inspired by the Latin word <em>innovāre</em> — “to renew” or “to innovate” — we’re here to build smart, meaningful, and forward-thinking software. The "Soft" in our name stands for software — but also for our approach: thoughtful, adaptable, and user-focused.

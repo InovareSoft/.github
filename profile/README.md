@@ -10,6 +10,7 @@
 
 At InovareSoft, our name reflects our mission. Derived from the Latin word <em>innovāre</em> — “to renew” or “to innovate” — we focus on building smart, meaningful, and future-ready software. The "Soft" represents not only software but also our flexible, thoughtful, and user-centered approach.
 
+---
 
 ### About Us
 
@@ -23,6 +24,8 @@ What we offer:
 - Custom desktop and mobile software  
 - Clean, efficient, and maintainable codebases
 
+---
+
 ### What We Build
 
 1. **Web Platforms and Services**  
@@ -34,6 +37,7 @@ What we offer:
 3. **Integrations and Automation**  
    Seamless API integrations and automated workflows that improve efficiency and reduce costs.
 
+---
 
 ### Our Values
 
@@ -41,6 +45,7 @@ What we offer:
 - **Purpose-Driven Development** – We focus on clarity, reliability, and long-term value.
 - **Client-Centered Approach** – Every project starts with understanding your needs.
 
+---
 
 ### Contact Us
 

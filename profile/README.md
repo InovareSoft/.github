@@ -2,7 +2,7 @@
   <img src="https://github.com/InovareSoft/.github/blob/main/profile/images/InovareSoft-Logo.svg" alt="InovareSoft Logo" style="max-width: 200px; height: auto;" />
 </p>
 
-<p align="center" style="font-size:18px; margin-top:0;">
+<p align="center" style="font-size:20px; margin-top:0;">
   <strong><span style="color: #229EBF;">Renew Your Digital World</span> with Smart, Custom Software</strong>
 </p>
 

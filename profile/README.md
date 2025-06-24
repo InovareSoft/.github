@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/InovareSoft/.github/blob/main/profile/images/Hero.svg" alt="Renew Your Digital World with Smart, Custom Software" />
+  <img src="https://github.com/InovareSoft/.github/blob/main/profile/images/heroSection.svg" alt="Renew Your Digital World with Smart, Custom Software" />
 </p>
 
 <h2 align="center">🚀 Welcome to InovareSoft</h2>

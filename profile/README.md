@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" style="font-size:20px; margin-top:0;">
-  <strong><span style="color: #229EBF;">Renew Your Digital World</span> with Smart, Custom Software</strong>
+  $$\large{\color{#229EBF}Renew\ Your\ Digital\ World}$$ with Smart, Custom Software
 </p>
 
 <h2 align="center">🚀 Welcome to InovareSoft</h2>

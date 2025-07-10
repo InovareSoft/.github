@@ -50,7 +50,7 @@ What we offer:
 ### Contact Us
 
 Have an idea or a project in mind?  
-Let’s talk: [inovaresoft@outlook.com](mailto:inovaresoft@outlook.com)  
+Let’s talk: [inovaresoft@gmail.com](mailto:inovaresoft@gmail.com)  
 You can also explore our repositories to see what we’re building and how you can contribute.
 
 ---
